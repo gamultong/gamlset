@@ -58,6 +58,9 @@ class OldTypeSet:
     class OldTypeFeild_2:
         pass
 
+class GamlType(GamlObj):
+    pass
+
 # GamlSet
 class GamlTypeSet(GamlSet):
     GamlType_1 = GamlType # GamlTypeSet__GamlType1
