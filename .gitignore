@@ -1,2 +1,7 @@
 *.pyc
 .claude/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
