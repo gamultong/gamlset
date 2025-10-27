@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="gamlset",
-    version="0.1.1",
+    version="0.1.2",
     author="byundojin",
     author_email="byundojin0216@gmail.com",
     description="Type집합을 만드는 라이브러리 입니다.",
